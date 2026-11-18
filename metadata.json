@@ -1,0 +1,6 @@
+{
+  "name": "Nyaya Sahayak — AI Citizen Legal Aid & Voice Assistant",
+  "description": "Multilingual AI legal information, voice assistant powered by Gemini Live, Google Search-grounded legal chatbot, document drafter, and nearby NALSA/DLSA legal aid finder.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
